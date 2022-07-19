@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab 2b</string>
+    <string name="photoText">Here is the photo description</string>
+    <string name="photoTake">Take a photo by Darren Correa</string>
+</resources>
