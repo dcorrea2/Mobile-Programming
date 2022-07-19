@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calendar by D. Correa</string>
+    <string name="emergency_number">3456435</string>
+    <string name="button">Speech\nRecognition</string>
+</resources>
