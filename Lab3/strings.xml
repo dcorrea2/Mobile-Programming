@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab 3 by D. Correa</string>
+    <string name="btnCapture">Start</string>
+    <string name="text_hint">Enter a video name</string>
+</resources>
